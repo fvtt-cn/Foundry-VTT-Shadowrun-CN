@@ -5,11 +5,11 @@
     "version": "0.1.8",
     "minimumCoreVersion" : "0.6.0",
     "author": "Pangbai",
-        
+
     "scripts": [],
     "styles": [],
     "packs": [],
-    
+
     "languages": [
       {
         "lang": "cn",
@@ -18,8 +18,8 @@
       }
     ],
     
-    "url": "https://gitlab.com/pangbai8/foundry-vtt-shadowrun-cn",
-	"manifest": "https://gitlab.com/pangbai8/foundry-vtt-shadowrun-cn/raw/master/sr5e_cn/module.json",
-	"download": "https://gitlab.com/pangbai8/foundry-vtt-shadowrun-cn/raw/master/sr5e_cn.zip"
+    "url": "https://github.com/fvtt/foundry-vtt-shadowrun-cn",
+    "manifest": "https://gitlab.com/fvtt-cn/foundry-vtt-shadowrun-cn/raw/master/sr5e_cn/module.json",
+    "download": "https://gitlab.com/fvtt-cn/foundry-vtt-shadowrun-cn/raw/master/sr5e_cn.zip"
   }
   
